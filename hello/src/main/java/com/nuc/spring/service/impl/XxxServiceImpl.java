@@ -15,7 +15,7 @@ import org.springframework.stereotype.Service;
 public class XxxServiceImpl implements XxxService {
     @Override
     public String hello() {
-        System.out.println("hello1");
+        System.out.println("hello22222");
         return "Hello,springboot,dhy";
     }
 }
