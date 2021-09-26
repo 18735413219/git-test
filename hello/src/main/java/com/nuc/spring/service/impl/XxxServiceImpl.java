@@ -16,6 +16,7 @@ public class XxxServiceImpl implements XxxService {
     @Override
     public String hello() {
         System.out.println("hello22222");
+        System.out.println("wokequnimade");
         return "Hello,springboot,dhy";
     }
 }
